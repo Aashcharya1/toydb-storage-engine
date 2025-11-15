@@ -1,0 +1,7 @@
+method,phase,logical_reads,logical_writes,physical_reads,physical_writes,page_fixes,dirty_marks,elapsed_ms
+post,build,46311,18671,19,278,46650,18332,13.645
+post,query,70,0,16,0,70,0,0.418
+incremental,build,45788,18542,6770,6986,46084,18246,281.897
+incremental,query,70,0,16,0,70,0,0.348
+bulk,build,79574,70956,1,17689,97342,53188,415.882
+bulk,query,80,0,7,0,80,0,0.202
